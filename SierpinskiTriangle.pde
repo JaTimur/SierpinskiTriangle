@@ -1,6 +1,6 @@
 int myLimit=400;
 public void setup(){size(500,500);}
-public void draw(){sierpinski(50,450,400,myLimit;}
+public void draw(){sierpinski(50,450,400,myLimit);}
 public void mousePressed(){
   //one click for first increment
   //two clicks for second and third
